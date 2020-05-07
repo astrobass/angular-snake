@@ -1,6 +1,5 @@
 # angular-snake
 
-
 ## To run in Docker on port 8080
 
 Build the repository
